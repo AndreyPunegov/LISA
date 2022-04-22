@@ -1,0 +1,6 @@
+.profile__specifications-icon {
+  display: grid;
+  width: 20px;
+  object-fit: contain;
+  gap: 10px;
+}

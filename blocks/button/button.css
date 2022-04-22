@@ -1,0 +1,19 @@
+.button {
+  border-radius: 16px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.33;
+  padding: 12px 24px;
+  cursor: pointer;
+  color: #ff6600;
+  background-color: #fff;
+  border: 1.2px solid #e6e7eb;
+  fill:#ff6600;
+}
+.button:disabled {
+  background-color: #e6e7eb;
+  color: #9397a3;
+  border: none;
+  cursor: default;
+  fill: #9397a3;
+}

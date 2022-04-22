@@ -1,0 +1,12 @@
+.header {
+    display: block;
+    margin: 0 auto 24px;
+    padding: 24px 60px;
+    box-sizing: border-box;
+
+    max-width: 1440px;
+
+    outline: 1px solid black;
+
+    background-color: #FFF;
+}
